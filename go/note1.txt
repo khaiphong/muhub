@@ -1,0 +1,9 @@
+1. Data synchronization among user (1.1) most relevant PersonaDB on the go in MuHub, (1.2) cloud PersonaDB at OmHub, (1.3) at Home with option of cloud
+backup to MuHub offline and/or other data center.
+
+2. SPAN (Smart Phone Ad-Hoc network) between user (2.1) smart phone Mu in MuHub
+with QR code of protected ID, (2.2) Ad-Hoc scanning to enable user decision to
+be part of it or not, (2.3) protected ID always connected to user's Inner Circle, three advanced centers, services from protected esoteric realms.
+
+3. Holistic PersonaAI with EIP Plan >< Execution >< Feedback and connected to
+custom CHR advisor and supports.
