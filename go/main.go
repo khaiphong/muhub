@@ -7,9 +7,8 @@
  distributed under the License is distributed on an "AS IS" BASIS,
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   
-PersonaDB is an injected microservice for Data Modeling, Simulation and Visualization, plus GitOp modules to enable other independent developers value-add their services using PersonaDB services to access the user's private database of private and public data in their agreed smart professional contracts.
-
-Each active user has its own HTTPS server from the PersonaDB HTTPS pool.
+SPAN Network and synchronization among (1) immediated relevant PersonaDB in Mu, (2)
+its data in OmHub, (3) online versioning and offsite backup.
 */
 
 package main
